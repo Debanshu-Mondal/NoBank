@@ -1,0 +1,19 @@
+#NoBank
+
+This is a banking management system built using Java, Swing , JDBC and PostgreSQL
+
+##Features: 
+- User Signup
+- Account Generation
+- Login Authentication 
+- Dashboard
+- Deposit 
+- Withdraw
+- Balance Inquiry
+- Mini Statement 
+
+##Packages Include:
+- javax.swing.*;
+- java.awt.*;
+- java.awt.event.*;
+- java.sql.*;
